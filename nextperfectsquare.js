@@ -7,4 +7,4 @@ function findnxtsqr(val) {
     return -1;
 }
 }
-console.log(findnxtsqr(144))
+console.log(findnxtsqr(10000))

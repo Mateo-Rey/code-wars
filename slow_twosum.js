@@ -13,4 +13,4 @@ for (let i = 0; i <arr.length; i++) {
 }
 return indexes;
 }
-console.log(twosum([],))
+console.log(twosum([10,50,70,80,99,102,107,128,104,256,372, 483, 562, 671, 721, 851, 866, 666, 444, 333, 888, 881, 993,199, 268],777))

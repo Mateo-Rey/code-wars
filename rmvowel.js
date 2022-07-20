@@ -24,4 +24,4 @@ return finalStr;
   //  }
   // }
 
-console.log(disemvowel('hey guys how are you'))
+console.log(disemvowel('I eat little pieces of shit for breakfast'))
