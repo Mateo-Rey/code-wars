@@ -8,3 +8,4 @@ function exponent(base,expo) {
 
 console.log(exponent(10,10))
 
+
