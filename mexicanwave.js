@@ -7,5 +7,5 @@ function wave(str){
     newArr.push(copy.join(''))
     }
   }
-  return newArr
+  return newArr;
 }
