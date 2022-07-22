@@ -12,4 +12,4 @@ var mergeTwoLists = function(list1, list2) {
     split=noCommas.split('').sort((a, b) => a - b)
      return split
  };
- console.log(mergeTwoLists([1,3,4],[1,2,5]))
+ mergeTwoLists([1,3,4],[1,2,5])
